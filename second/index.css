@@ -4,7 +4,6 @@
     box-sizing: border-box;
 }
 
- /*CONTAINER 1*/
 
 
 .container-1{
@@ -35,7 +34,7 @@
   margin: 0 200px; 
 }
 
-/* CONTAINER 2 */
+
 
 .container-2{
     height: 220px;
@@ -57,11 +56,11 @@
     margin: 10px;
     display: flex;
     justify-content: center;
-    
+
 
 }
 
-/* CONTAINER 3 */
+
 
 .container-3{
     height: 200px;
@@ -73,7 +72,7 @@
     box-shadow: 10px 10px 8px #888888; 
  
 
-    
+
  
 
 
